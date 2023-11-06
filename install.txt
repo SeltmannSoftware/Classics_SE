@@ -1,5 +1,5 @@
 pcvdev_a.nd4
-LucasArts(tm) Classic Adventures(tm) V1.1
+LucasArts(tm) Classic Adventures Archive 
 GameDir
 Please insert floppy disk #
 Press any key to continue
@@ -47,22 +47,22 @@ Press Any Key to exit to Dos
 
 
 -----------------------------------------------------
-select game(s) to install
-(press letter of game(s) to install, return when done)
+Select game(s) to install
+(press number of game(s) to install, return when done)
                                                       
 1) Maniac Mansion                                        
 2) Zak McKracken                                         
 3) Loom                                                  
 4) Indiana Jones and the Last Crusade                    
 5) The Secret of Monkey Island                           
-
-
-maniad   maniac_a.xxx   1				//directory, filename, beginning disk#
+6) Monkey Island 2: LeChucks's Revenge                   
+7) Indiana Jones and the Fate of Atlantis                
+maniac   maniac_a.xxx   1				//directory, filename, beginning disk#
 zak      zak____a.xxx   1
 loom     loom___a.xxx   1
 indy     indy___a.xxx   2
 monkey   monkey_a.xxx   5
-
+mi2      pcv10__a.mi2   1
+indy4    pcviqa_a.nd4   1
 
 30 95 78 0 
-
