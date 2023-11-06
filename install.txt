@@ -1,0 +1,68 @@
+pcvdev_a.nd4
+LucasArts(tm) Classic Adventures(tm) V1.1
+GameDir
+Please insert floppy disk #
+Press any key to continue
+Cannot find
+Insert correct disk and press any key
+Reading file
+Installation Complete.
+Extracting file
+Cannot write file
+Installation program for
+Space needed for install
+Space available on drive
+Ignored unknown chunk:
+Not enough space to install
+Error!
+(or A to Abort)
+Hard drive on which to install program  (Use Arrow keys):
+Floppy drive to read installation disks (Use Arrow Keys):
+-----------------------------------------------------
+
+
+
+Installation completed for this game
+
+Press Any Key
+
+
+
+
+-----------------------------------------------------
+No disk in drive
+Cannot find specified drive
+Cannot create directory
+Creating directory
+TM & (c) 1992 LucasArts Entertainment Company.  All rights reserved.
+-----------------------------------------------------
+
+
+
+Error During Installation
+
+Press Any Key to exit to Dos
+
+
+
+
+-----------------------------------------------------
+select game(s) to install
+(press letter of game(s) to install, return when done)
+                                                      
+1) Maniac Mansion                                        
+2) Zak McKracken                                         
+3) Loom                                                  
+4) Indiana Jones and the Last Crusade                    
+5) The Secret of Monkey Island                           
+
+
+maniad   maniac_a.xxx   1				//directory, filename, beginning disk#
+zak      zak____a.xxx   1
+loom     loom___a.xxx   1
+indy     indy___a.xxx   2
+monkey   monkey_a.xxx   5
+
+
+30 95 78 0 
+
