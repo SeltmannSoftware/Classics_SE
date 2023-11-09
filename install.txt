@@ -62,7 +62,7 @@ zak      zak____a.xxx   1
 loom     loom___a.xxx   1
 indy     indy___a.xxx   2
 monkey   monkey_a.xxx   5
-mi2      pcv10__a.mi2   1
-indy4    pcviqa_a.nd4   1
+monkey2  pcv10__a.mi2   1
+atlantis pcviqa_a.nd4   1
 
 30 95 78 0 
